@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/guilhermejansen/clearstack/releases/download/v1.0.1/clearstack_1.0.1_Windows_x86_64.zip",
+            "url": "https://github.com/guilhermejansen/clearstack/releases/download/v1.1.0/clearstack_1.1.0_Windows_x86_64.zip",
             "bin": [
                 "clearstack.exe"
             ],
-            "hash": "3d7f0e0b5f89c82bd4418d3d0441583c9352d74274642e2e9248eb5b9126de80"
+            "hash": "647789da173c73d3ed299db9813092350cadc26c2c7c3a1c7d1d4c8b5b54a6d3"
         },
         "arm64": {
-            "url": "https://github.com/guilhermejansen/clearstack/releases/download/v1.0.1/clearstack_1.0.1_Windows_arm64.zip",
+            "url": "https://github.com/guilhermejansen/clearstack/releases/download/v1.1.0/clearstack_1.1.0_Windows_arm64.zip",
             "bin": [
                 "clearstack.exe"
             ],
-            "hash": "c2104a30e0ffab8178b71486b1f76356bbfae3dbc2a4fd306d13112b9c1fcc06"
+            "hash": "26272ec6443bdce6f6af0409500a66f7533cf5890d24d725c5f8a7fac9d428b4"
         }
     },
     "homepage": "https://github.com/guilhermejansen/clearstack",
